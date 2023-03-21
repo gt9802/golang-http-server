@@ -1,3 +1,3 @@
 # golang-http-server
 
-![](ci.png)
+![](CI.png)
